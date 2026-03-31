@@ -1,0 +1,93 @@
+{
+	"meta": {
+		"format_version": "4.10",
+		"model_format": "free",
+		"box_uv": false
+	},
+	"name": "censored",
+	"model_identifier": "",
+	"visible_box": [1, 1, 0],
+	"variable_placeholders": "",
+	"variable_placeholder_buttons": [],
+	"timeline_setups": [],
+	"unhandled_root_fields": {},
+	"resolution": {
+		"width": 16,
+		"height": 16
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"box_uv": false,
+			"rescale": false,
+			"locked": false,
+			"light_emission": 0,
+			"render_order": "default",
+			"allow_mirror_modeling": true,
+			"from": [-57, -56, -57],
+			"to": [57, 58, 57],
+			"autouv": 0,
+			"color": 3,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [0.25, 0.25, 0.75, 0.75],
+					"texture": 0
+				},
+				"east": {
+					"uv": [1.25, 0.25, 1.75, 0.75],
+					"texture": 0
+				},
+				"south": {
+					"uv": [2.25, 0.25, 2.75, 0.75],
+					"texture": 0
+				},
+				"west": {
+					"uv": [3.25, 0.25, 3.75, 0.75],
+					"texture": 0
+				},
+				"up": {
+					"uv": [4.25, 0.25, 4.75, 0.75],
+					"texture": 0
+				},
+				"down": {
+					"uv": [5.25, 0.25, 5.75, 0.75],
+					"texture": 0
+				}
+			},
+			"type": "cube",
+			"uuid": "a09f77a7-a468-da1b-b197-382a84f13d3a"
+		}
+	],
+	"outliner": ["a09f77a7-a468-da1b-b197-382a84f13d3a"],
+	"textures": [
+		{
+			"path": "",
+			"name": "texture",
+			"folder": "block",
+			"namespace": "",
+			"id": "0",
+			"group": "",
+			"width": 16,
+			"height": 16,
+			"uv_width": 16,
+			"uv_height": 16,
+			"particle": false,
+			"use_as_default": false,
+			"layers_enabled": false,
+			"sync_to_project": "",
+			"render_mode": "default",
+			"render_sides": "auto",
+			"pbr_channel": "color",
+			"frame_time": 1,
+			"frame_order_type": "loop",
+			"frame_order": "",
+			"frame_interpolate": false,
+			"visible": true,
+			"internal": true,
+			"saved": false,
+			"uuid": "89c0cf98-7807-12ab-fb34-85092933c537",
+			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAB5JREFUOE9jZGBg+M9AAWAcNYBhNAwYRsOAYViEAQBOThABC541RwAAAABJRU5ErkJggg=="
+		}
+	]
+}
